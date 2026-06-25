@@ -1,2 +1,3 @@
-# Training-Day-1-
-My Day 1 Training notes
+Linux basic commands 
+linux package Management 
+Remotely connection Window to Linux 
